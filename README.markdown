@@ -1,0 +1,1 @@
+This repository contains code, slides, and samples for talks at the [Columbus Machine Learners](http://cbus.machinelearners.org/) [meetup](https://www.meetup.com/Columbus-Machine-Learners/).
